@@ -11,6 +11,6 @@ This project is very young, and the tile-order is likely to change often. Don't 
 
 #Demo
 ##50% zoom:
-![50% zoom](https://raw.githubusercontent.com/tipsy/isometric-tiles/master/sample/sample_close.png)
+![50% zoom](https://raw.githubusercontent.com/tipsy/isometric-tiles/master/sample/screenshot_close.png)
 ##12% zoom:
-![12% zoom](https://raw.githubusercontent.com/tipsy/isometric-tiles/master/sample/sample_far.png)
+![12% zoom](https://raw.githubusercontent.com/tipsy/isometric-tiles/master/sample/screenshot_far.png)
